@@ -17,3 +17,5 @@
   },
   "homepage": "https://github.com/IraGil/frontend-project-lvl1#readme"
 }
+,
+  "type": "module",
