@@ -27,4 +27,4 @@ const startGame = (rulesGame, getQuestionCorrectAnswer) => {
   console.log(`Congratulations, ${userName}!`);
 };
 
-export default startGameEngine;
+export default startGame;
