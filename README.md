@@ -6,3 +6,6 @@
 
 ### Eslint status:
 ![eslint-check](https://github.com/IraGil/frontend-project-lvl1/actions/workflows/lint.yml/badge.svg)
+
+### Install and play the game:
+[![asciicast](https://asciinema.org/a/ubZ8znmzaJ150Snrp0mnFeUDs.svg)](https://asciinema.org/a/ubZ8znmzaJ150Snrp0mnFeUDs)
