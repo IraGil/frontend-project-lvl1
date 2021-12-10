@@ -5,4 +5,4 @@
 [![Maintainability](https://api.codeclimate.com/v1/badges/a99a88d28ad37a79dbf6/maintainability)](https://codeclimate.com/github/codeclimate/codeclimate/maintainability)
 
 ### Eslint status:
-![eslint-check](https://github.com/IraGil/frontend-project-lvl1/actions/worjflows/lint.yml/badge.svg)
+![eslint-check](https://github.com/IraGil/frontend-project-lvl1/actions/workflows/lint.yml/badge.svg)
